@@ -38,7 +38,7 @@
 ---
 ####                                                           ALWAYS BE AN INWARD DEPENDENCY
 ---
-
+![[Clean-achitecture.png]]
 
 ## Dependency flow between all the layers
 
