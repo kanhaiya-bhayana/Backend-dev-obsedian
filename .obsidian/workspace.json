@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "3480657178540c03",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8143e18d4300a84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b4d9219c37c0c2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jwt-Authentication/Jwt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdf117003167dc59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kafka/Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db34c41a9b124f12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clean Architecture/Clean Architecture by Bhrugen Patel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1246c36c9e9564ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "b00d4638fa0e5fbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "158a047073bdc090",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "198e436996a06b0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Architecture",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0dbd50765f899da1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2b50131424e4db61",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e45094d8bc930d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fdf99f18708e9ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clean Architecture/Clean Architecture by Bhrugen Patel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c781e3d4f6468bf6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clean Architecture/Clean Architecture by Bhrugen Patel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10f35988fc5448ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "10071576b4595315",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clean Architecture/Clean Architecture by Bhrugen Patel.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "158a047073bdc090",
+  "lastOpenFiles": [
+    "2024-05-15.md",
+    "Clean Architecture/Clean Architecture by Bhrugen Patel.md",
+    "Technologies/CQRS.md",
+    "Clean Architecture",
+    "Kafka/Intro.md",
+    "Delegates/Introduction.md",
+    "Delegates",
+    "Mediator+-+Command+Dispatching.drawio(1).png",
+    "Mediator+-+Command+Dispatching.drawio.png",
+    "Mediator+Pattern.drawio.png",
+    "Mediator+Pattern.drawio",
+    "Pasted image 20240412105420.png",
+    "Jwt-Authentication/Jwt.md",
+    "Pasted image 20240330174744.png",
+    "Kafka",
+    "Pasted image 20240318231535.png",
+    "Pasted image 20240318231041.png",
+    "Pasted image 20240318231004.png",
+    "Technologies/15-Factor methodology.md",
+    "Jwt-Authentication",
+    "Welcome.md",
+    "Technologies"
+  ]
+}
